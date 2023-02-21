@@ -1,2 +1,2 @@
 # study
- python study
+Personal study materials, python, linux operation, etc.
